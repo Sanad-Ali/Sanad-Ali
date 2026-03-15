@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sanad-Ali
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning htmml and css and javascript
+- 👀 I’m interested in machine learning and deep learning
 - 💞️ I’m looking to collaborate on // not now
 - 📫 How to reach me 
 - instagram;
